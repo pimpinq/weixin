@@ -6,7 +6,7 @@
 "app_secret": "b117ec112e4921c0f736792a3ec75496",
 # 模板消息id
 "template_id": "z4ZfR3kziAVp6QzcjrBVYmzMcsiDOiFvXJZ8LJCMPdE",
-"user": ["oFsNB58VE_rcYUNOO-qY5ZFnpHnY"],
+"user": ["oFsNB58VE_rcYUNOO-qY5ZFnpHnY","oFsNB58L4w6jwlcumug3beLsd4-k","oFsNB56iyDofgDKHXXiqmo02NgPo"],
 
 # 信息配置
 # 和风天气apikey
@@ -15,13 +15,13 @@
 "tian_api": "ec53f4deb4630b798e95b91b571eb950 ",
 
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
-"region": "番禺区",
+"region": "哈尔滨市",
 # 生日1
-"birthday1": {"name": "小宝", "birthday": "1997-01-01"},
+"birthday1": {"name": "占瑾喆", "birthday": "2001-07-14"},
 # 生日2
-"birthday2": {"name": "小林", "birthday": "r1997-01-01"},
+"birthday2": {"name": "范佳龙", "birthday": "r2000-07-01"},
 # 在一起的日子，格式同上
-"love_date": "2021-01-01",
+"love_date": "2021-12-13",
 # 金句中文，留空默认显示金山的每日金句
 "note_ch": "",
 # 金句英文
