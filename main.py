@@ -322,7 +322,7 @@ def handler(event, context):
     if note_ch == "" and note_en == "":
         # 获取词霸每日金句
         note_ch, note_en = get_ciba()
-    chp = get_tian(config)
+    chp = get_tianhang(config)
     # 公众号推送消息
     for user in users:
         send_message(user, accessToken, region, weather, temp, wind_dir, note_ch, note_en, max_temp, min_temp, sunrise,
